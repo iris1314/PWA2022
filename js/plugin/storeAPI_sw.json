@@ -1,0 +1,481 @@
+[{
+        "lang": [{
+                "area": "北部區域",
+                "store": [{
+                        "storeTitle": "台北101店",
+                        "imgUrl": "images/store/north/1_taipei101.jpg",
+                        "address": "110 台北市市府路45號(台北101購物中心) B1F",
+                        "googleMap": "https://goo.gl/maps/Y9mKmgwnPNbVZSsD7",
+                        "tel": "02-8101-8701",
+                        "fex": "02-8101-8705",
+                        "workTime": "週一到週日 09:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "台北大葉店",
+                        "imgUrl": "images/store/north/2_dayeh.jpg",
+                        "address": "111 台北市士林區忠誠路二段55號(大葉高島屋)B1F",
+                        "googleMap": "https://goo.gl/maps/Bom4AtqCwQr1CduQA",
+                        "tel": "02-2836-2932~3",
+                        "fex": "02-2836-3810",
+                        "workTime": "週日至週四 09:00 ~ 21:30 <br> 週五至週六 09:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "台北天母店",
+                        "imgUrl": "images/store/north/3_Tianmu.jpg",
+                        "address": "111 台北市士林區天母西路3號2F",
+                        "googleMap": "https://goo.gl/maps/kdv2wijiULXLuKARA",
+                        "tel": "02-2872-5160~1",
+                        "fex": "02-2874-2316",
+                        "workTime": "週一到週日07:00 ~ 00:00 <br> (部分專櫃除外)"
+                    },
+                    {
+                        "storeTitle": "台北京站店",
+                        "imgUrl": "images/store/north/4_QSquare.jpg",
+                        "address": "103 台北市大同區承德路一段1號 <br> (京站時尚廣場)B3F",
+                        "googleMap": "https://goo.gl/maps/MfyVsUg8xpp6Wbak7",
+                        "tel": "02-2552-6500",
+                        "fex": "02-2552-7334",
+                        "workTime": "週日至週四 11:00 ~ 21:30 <br> 週五至週六 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "台北美麗華店",
+                        "imgUrl": "images/store/north/5_Miramar.jpg",
+                        "address": "104 台北市中山區敬業三路20號 <br> (美麗華百樂園)B1F-1",
+                        "googleMap": "https://goo.gl/maps/PG72gPFE4LNGxd2p8",
+                        "tel": "02-2175-3666~8",
+                        "fex": "02-2175-3669",
+                        "workTime": "週一到週日 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "台北林森店",
+                        "imgUrl": "images/store/north/6_Linsen.jpg",
+                        "address": "104 台北市林森北路247號 <br> (欣欣大眾百貨)B1F",
+                        "googleMap": "https://goo.gl/maps/TnLqsFiTZP9XKqv79",
+                        "tel": "02-2563-7965",
+                        "fex": "02-2542-9788",
+                        "workTime": "週一到週日 09:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "台北寶慶店",
+                        "imgUrl": "images/store/north/7_Baoqing.jpg",
+                        "address": "100 台北市寶慶路32號 <br> (寶慶遠東百貨)B1F",
+                        "googleMap": "https://goo.gl/maps/LCJoAMDXgwVY4JTc7",
+                        "tel": "02-2311-2259",
+                        "fex": "02-2331-7191",
+                        "workTime": "週日至週四 11:00 ~ 21:30 <br> 週五至週六 11:00 ~ 22:00 <br> 國定假日前一天 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "台北安和店",
+                        "imgUrl": "images/store/north/8_Anhe.jpg",
+                        "address": "台北市安和路二段80-82號B1",
+                        "googleMap": "https://goo.gl/maps/Pnmjg8ywkM8HVxUR8",
+                        "tel": "2705-7333、2705-7350",
+                        "fex": "2705-7334",
+                        "workTime": "週一到週日07:00 ~ 00:00 <br> (部分專櫃除外)"
+                    },
+                    {
+                        "storeTitle": "新北中和環球店",
+                        "imgUrl": "images/store/north/9_GlobalMall.jpg",
+                        "address": "235 新北市中和區中山路三段122號 <br> (中和環球購物中心)B2F",
+                        "googleMap": "https://goo.gl/maps/NWmiatvFvmEquuNc7",
+                        "tel": "02-2221-1386",
+                        "fex": "02-3234-5209",
+                        "workTime": "週一至週日 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "台北政大店",
+                        "imgUrl": "images/store/north/10_NCCU.jpg",
+                        "address": "台北市文山區萬壽路27號",
+                        "googleMap": "https://goo.gl/maps/UEFiDzk7sUQpiMhk8",
+                        "tel": "2234-7664、2234-4036",
+                        "fex": "2234-1926",
+                        "workTime": "週一到週日07:00 ~ 00:00 <br> (部分專櫃除外)"
+                    },
+                    {
+                        "storeTitle": "台北和平店",
+                        "imgUrl": "images/store/north/11_municipal.jpg",
+                        "address": "106 台北市大安區羅斯福路二段41-49號B1",
+                        "googleMap": "https://goo.gl/maps/wCTghGsG85GcoWRL6",
+                        "tel": "02-2396-9625",
+                        "fex": "02-2397-2856",
+                        "workTime": "週一到週日07:00 ~ 00:00 <br> (部分專櫃除外)"
+                    },
+                    {
+                        "storeTitle": "林口三井店",
+                        "imgUrl": "images/store/north/12_MITSUI.jpg",
+                        "address": "244 新北市林口區文化三路一段356號GF",
+                        "googleMap": "https://goo.gl/maps/fFj6ckMXsSegfreGA",
+                        "tel": "02-2600-9648",
+                        "fex": "02-2600-2487",
+                        "workTime": "周一到周四 11:00~21:30 <br> 周五11:00~22:00 <br> 週六到週日 10:30~22:00"
+                    },
+                    {
+                        "storeTitle": "桃園新天地店",
+                        "imgUrl": "images/store/north/13_chungmao.jpg",
+                        "address": "330 桃園市桃園區同德五街63-65號",
+                        "googleMap": "https://goo.gl/maps/7ciw4ZMSweFbjjP96",
+                        "tel": "03-316-6673",
+                        "fex": "03-316-5290",
+                        "workTime": "周一至周日7:00~24:00"
+                    },
+                    {
+                        "storeTitle": "新竹大遠百店",
+                        "imgUrl": "images/store/north/14_MegaCity.jpg",
+                        "address": "300新竹市西大路323號 <br> (新竹大遠百)B1F",
+                        "googleMap": "https://goo.gl/maps/mfjMS7KWNukeCvTk7",
+                        "tel": "03-5235120",
+                        "fex": "03-5238001",
+                        "workTime": "週一到週日 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "新北板橋店",
+                        "imgUrl": "images/store/north/15_Banqiao.jpg",
+                        "address": "新北市板橋區中山路一段152號B1F",
+                        "googleMap": "https://goo.gl/maps/GKxbDppAb1AD9SFg6",
+                        "tel": "02-2956-3886",
+                        "fex": "02-2956-4670",
+                        "workTime": "週一到週日 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "永和比漾店",
+                        "imgUrl": "images/store/north/16_BEYOND.jpg",
+                        "address": "新北市永和區中山路一段238號B2F",
+                        "googleMap": "https://goo.gl/maps/6H7fndwk7SDQiGjP7",
+                        "tel": "02-8231-5950",
+                        "fex": "02-8231-6327",
+                        "workTime": "週日至週四11:00 ~ 21:30 <br> 週五至週六11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "三峽大學店",
+                        "imgUrl": "images/store/north/17_ChinaThreeGorgesUniversity.jpg",
+                        "address": "新北市三峽區大學路119, 121, 123號",
+                        "googleMap": "https://goo.gl/maps/5k5BkMLhBksEorPs9",
+                        "tel": "02-2673-8188",
+                        "fex": "02-2673-9073",
+                        "workTime": "週一至週日07:00~24:00"
+                    },
+                    {
+                        "storeTitle": "竹北高鐵店",
+                        "imgUrl": "images/store/north/18_THSR.jpg",
+                        "address": "302 新竹縣竹北市文興路二段2號",
+                        "googleMap": "https://goo.gl/maps/XXtax4WrFsMp3VxVA",
+                        "tel": "03-657-9028",
+                        "fex": "03-657-9186",
+                        "workTime": "週一至週日 7:00 ~ 24:00"
+                    }
+                ]
+            },
+            {
+                "area": "中部區域",
+                "store": [{
+                        "storeTitle": "台中中友店",
+                        "imgUrl": "images/store/center/1_Chungyo.jpg",
+                        "address": "404台中市三民路三段161號A棟 <br> (中友百貨)B2F",
+                        "googleMap": "https://goo.gl/maps/2Y7tm7n4LnhkMSoq9",
+                        "tel": "04-2225-8528",
+                        "fex": "04-2225-5121",
+                        "workTime": "週一至週五 11:00 ~ 22:00 <br> 週六 10:30~22:00"
+                    },
+                    {
+                        "storeTitle": "台中豐原店",
+                        "imgUrl": "images/store/center/2_Fengyuan.jpg",
+                        "address": "420 台中市豐原區復興路2號(太平洋百貨)B2F",
+                        "googleMap": "https://goo.gl/maps/r3vmC6tbc5ZLfNUq9",
+                        "tel": "04-2525-3800",
+                        "fex": "04-2525-4787",
+                        "workTime": "週一至週五 11:00~22:00 <br> 週六、週日 10:30~22:00"
+                    }
+                ]
+            },
+            {
+                "area": "南部區域",
+                "store": [{
+                        "storeTitle": "台南夢時代店",
+                        "imgUrl": "images/store/south/1_TSDreamMall.jpg",
+                        "address": "701 台南市東區中華東路一段366號 <br> (南紡夢時代)B1F",
+                        "googleMap": "https://goo.gl/maps/yw5jH7msY6NaHXvp9",
+                        "tel": "06-2082412",
+                        "fex": "06-2081004",
+                        "workTime": "週一到週日 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "高雄夢時代店",
+                        "imgUrl": "images/store/south/2_DreamMall.jpg",
+                        "address": "806 高雄市前鎮區中華五路789號 <br> (高雄夢時代)B1F",
+                        "googleMap": "https://goo.gl/maps/52T66XLRCrdWumE79",
+                        "tel": "07-8232500",
+                        "fex": "07-8231496",
+                        "workTime": "週一到週四 11:00 ~ 22:00 <br> 週五11:00 ~ 22:30 <br> 週六10:30 ~ 22:30 <br> 週日10:30 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "高雄漢神店",
+                        "imgUrl": "images/store/south/3_HANSHIN.jpg",
+                        "address": "801 高雄市前金區成功一路266-1號(漢神百貨)B3F",
+                        "googleMap": "https://goo.gl/maps/V3zxDZKnUrueWuLF7",
+                        "tel": "07-2728156~8",
+                        "fex": "07-2728159",
+                        "workTime": "週一至週四 11:00 ~ 22:00 <br> 週五 11:00 ~ 22:30 <br> 週六 10:30 ~ 22:30 <br> 週日 10:30 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "高雄漢神巨蛋店",
+                        "imgUrl": "images/store/south/4_HanshinArena.jpg",
+                        "address": "813 高雄市左營區博愛二路777號 <br> (漢神巨蛋購物廣場)B1F",
+                        "googleMap": "https://goo.gl/maps/L6o67FXYm7hQgbTv6",
+                        "tel": "07-522-4785",
+                        "fex": "07-522-4776",
+                        "workTime": "週一到週四 11:00 ~ 22:00 <br> 週五11:00 ~ 22:30 <br> 週六10:30 ~ 22:30 <br> 週日10:30 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "屏東店",
+                        "imgUrl": "images/store/south/5_Pingtung.jpg",
+                        "address": "900 屏東縣屏東市中正路72號B1",
+                        "googleMap": "https://goo.gl/maps/scCFEZf4EeZHVFff7",
+                        "tel": "7324212、7324707",
+                        "fex": "08-7329495",
+                        "workTime": "週一到週五 11:00~22:00 <br> 週六到週日 10:30~22:00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "lang": [{
+                "area": "North",
+                "store": [{
+                        "storeTitle": "JASONS 101 Store",
+                        "imgUrl": "images/store/north/1_taipei101.jpg",
+                        "address": "B1F.(Taipei 101 mall), No.45, Shifu Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/Y9mKmgwnPNbVZSsD7",
+                        "tel": "02-8101-8701",
+                        "fex": "02-8101-8705",
+                        "workTime": "Mon-Sun 09:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Takashimaya Store",
+                        "imgUrl": "images/store/north/2_dayeh.jpg",
+                        "address": "B1F.(Dayeh Takashimaya), No.55, Sec. 2, Zhongcheng Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/Bom4AtqCwQr1CduQA",
+                        "tel": "02-2836-2932~3",
+                        "fex": "02-2836-3810",
+                        "workTime": "Sun-Thu 09:00 ~ 21:30 <br> Fri-Sat 09:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Tienmu Store",
+                        "imgUrl": "images/store/north/3_Tianmu.jpg",
+                        "address": "2F., No.3, Tianmu W. Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/kdv2wijiULXLuKARA",
+                        "tel": "02-2872-5160~1",
+                        "fex": "02-2874-2316",
+                        "workTime": "Mon-Sun07:00 ~ 00:00 <br> (Except Deli Counter)"
+                    },
+                    {
+                        "storeTitle": "JASONS Jinjan Store",
+                        "imgUrl": "images/store/north/4_QSquare.jpg",
+                        "address": "B3F.(Q square), No.1, Sec. 1, Chengde Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/MfyVsUg8xpp6Wbak7",
+                        "tel": "02-2552-6500",
+                        "fex": "02-2552-7334",
+                        "workTime": "Sun-Thu 11:00 ~ 21:30 <br> Fri-Sat 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Miramar Store",
+                        "imgUrl": "images/store/north/5_Miramar.jpg",
+                        "address": "B1F-1.(Miramar), No.20, Jingye 3rd Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/PG72gPFE4LNGxd2p8",
+                        "tel": "02-2175-3666~8",
+                        "fex": "02-2175-3669",
+                        "workTime": "Mon-Sun 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Linsheng Store",
+                        "imgUrl": "images/store/north/6_Linsen.jpg",
+                        "address": "B1F.(ShinShin Department Stores), No.247, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/TnLqsFiTZP9XKqv79",
+                        "tel": "02-2563-7965",
+                        "fex": "02-2542-9788",
+                        "workTime": "Mon-Sun 09:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Bauching FG Store",
+                        "imgUrl": "images/store/north/7_Baoqing.jpg",
+                        "address": "B1F., No.32, Baoqing Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/LCJoAMDXgwVY4JTc7",
+                        "tel": "02-2311-2259",
+                        "fex": "02-2331-7191",
+                        "workTime": "Sun-Thu 11:00 ~ 21:30 <br> Fri-Sat 11:00 ~ 22:00 <br> National Holiday Eve 11: 00~22: 00 "
+                    },
+                    {
+                        "storeTitle": "JASONS Anho Store",
+                        "imgUrl": "images/store/north/8_Anhe.jpg",
+                        "address": "No.80-82, Sec. 2, Anhe Rd., Da’an Dist., Taipei City",
+                        "googleMap": "https://goo.gl/maps/Pnmjg8ywkM8HVxUR8",
+                        "tel": "2705-7333、2705-7350",
+                        "fex": "2705-7334",
+                        "workTime": "Mon-Sun07:00 ~ 00:00 <br> (Except Deli Counter)"
+                    },
+                    {
+                        "storeTitle": "JASONS Global Store",
+                        "imgUrl": "images/store/north/9_GlobalMall.jpg",
+                        "address": "B2F.(GlobalMall), No.122, Sec. 3, Zhongshan Rd., Zhonghe Dist., New Taipei City 235, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/NWmiatvFvmEquuNc7",
+                        "tel": "02-2221-1386",
+                        "fex": "02-3234-5209",
+                        "workTime": "Sun-Thu 09:30 ~ 22:00 <br> Fri-Sat 09:30 ~ 22:30"
+                    },
+                    {
+                        "storeTitle": "JASONS Zhengda Store",
+                        "imgUrl": "images/store/north/10_NCCU.jpg",
+                        "address": "No.27, Wanshou Rd., Wenshan Dist., Taipei City",
+                        "googleMap": "https://goo.gl/maps/UEFiDzk7sUQpiMhk8",
+                        "tel": "2234-7664、2234-4036",
+                        "fex": "2234-1926",
+                        "workTime": "Mon-Sun07:00 ~ 00:00<br> (Except Deli Counter)"
+                    },
+                    {
+                        "storeTitle": "JASONS Hoping Store",
+                        "imgUrl": "images/store/north/11_municipal.jpg",
+                        "address": "B1F., No.41-49, Sec. 2, Roosevelt Rd., Da’an Dist., Taipei City 106, Taiwan",
+                        "googleMap": "https://goo.gl/maps/wCTghGsG85GcoWRL6",
+                        "tel": "02-2396-9625",
+                        "fex": "02-2397-2856",
+                        "workTime": "Mon-Sun07:00 ~ 00:00 <br> (Except Deli Counter)"
+                    },
+                    {
+                        "storeTitle": "JASONS Linkuo Mitsui Store",
+                        "imgUrl": "images/store/north/12_MITSUI.jpg",
+                        "address": "No.356, Sec. 1, Wenhua 3rd Rd., Linkou Dist., New Taipei City",
+                        "googleMap": "https://goo.gl/maps/fFj6ckMXsSegfreGA",
+                        "tel": "02-2600-9648",
+                        "fex": "02-2600-2487",
+                        "workTime": "Mon-Thu 11:00~21:30 <br> Fri 11:00~22:00 <br> Sat-Sun  10:30~22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Taoyuan Hsindiandi",
+                        "imgUrl": "images/store/north/13_chungmao.jpg",
+                        "address": "No.63-65, Tongde 5th St., Taoyuan Dist., Taoyuan City",
+                        "googleMap": "https://goo.gl/maps/7ciw4ZMSweFbjjP96",
+                        "tel": "03-316-6673",
+                        "fex": "03-316-5290",
+                        "workTime": "Mon-Sun 8:30~23:30"
+                    },
+                    {
+                        "storeTitle": "JASONS Hsinchu Store",
+                        "imgUrl": "images/store/north/14_MegaCity.jpg",
+                        "address": "B1F., No.323, Xida Rd., East Dist., Hsinchu City 300, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/mfjMS7KWNukeCvTk7",
+                        "tel": "03-5235120",
+                        "fex": "03-5238001",
+                        "workTime": "Mon-Sun 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Banchiao Store",
+                        "imgUrl": "images/store/north/15_Banqiao.jpg",
+                        "address": "B1,No.152, Sec. 1, Zhongshan Rd., Banqiao Dist., New Taipei City",
+                        "googleMap": "https://goo.gl/maps/GKxbDppAb1AD9SFg6",
+                        "tel": "02-2956-3886",
+                        "fex": "02-2956-4670",
+                        "workTime": "Mon-Sun 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Beyond Store",
+                        "imgUrl": "images/store/north/16_BEYOND.jpg",
+                        "address": "B2F., No.238, Sec. 1, Zhongshan Rd., Yonghe Dist., New Taipei City 234, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/6H7fndwk7SDQiGjP7",
+                        "tel": "02-8231-5950",
+                        "fex": "02-8231-6327",
+                        "workTime": "Sun-Thu 11:00 ~ 21:30 <br> Fri -Sat 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Sanxia Store",
+                        "imgUrl": "images/store/north/17_ChinaThreeGorgesUniversity.jpg",
+                        "address": "No.123, 121,119, Daxue Rd., Sanxia Dist., New Taipei City 237, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/5k5BkMLhBksEorPs9",
+                        "tel": "02-2673-8188",
+                        "fex": "02-2673-9073",
+                        "workTime": "Mon-Sun 07:00~23:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Chu Pei Store",
+                        "imgUrl": "images/store/north/18_THSR.jpg",
+                        "address": "No.2, Sec. 2, Wenxing Rd., Zhubei City, Hsinchu County 302, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/XXtax4WrFsMp3VxVA",
+                        "tel": "03-657-9028",
+                        "fex": "03-657-9186",
+                        "workTime": "Mon-Sun 08:00 ~ 23:00"
+                    }
+                ]
+            },
+            {
+                "area": "Mid",
+                "store": [{
+                        "storeTitle": "JASONS Chungyo Store",
+                        "imgUrl": "images/store/center/1_Chungyo.jpg",
+                        "address": "B2F.(Chungyo Department Stores), No.161 A Building, Sec. 3, Sanmin Rd., North Dist., Taichung City 404, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/2Y7tm7n4LnhkMSoq9",
+                        "tel": "04-2225-8528",
+                        "fex": "04-2225-5121",
+                        "workTime": "Mon-Fri 11:00 ~ 22:00 <br> Sat 10:30 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Fengyuan Store",
+                        "imgUrl": "images/store/center/2_Fengyuan.jpg",
+                        "address": "B2F.( Pacific Department Store ), No.2 Fuxing Rd., Fengyuan Dist., Taichung City 420, Taiwan",
+                        "googleMap": "https://goo.gl/maps/r3vmC6tbc5ZLfNUq9",
+                        "tel": "04-2525-3800",
+                        "fex": "04-2525-4787",
+                        "workTime": "Mon-Fri 11:00~22:00 <br> Sat-Sun 10:30~22:00"
+                    }
+                ]
+            },
+            {
+                "area": "South",
+                "store": [{
+                        "storeTitle": "JASONS Tainan Dream Mall Store",
+                        "imgUrl": "images/store/south/1_TSDreamMall.jpg",
+                        "address": "B1F.(T.S. Dream Mall), No.366, Sec. 1, Zhonghua E. Rd., East Dist., Tainan City 701, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/yw5jH7msY6NaHXvp9",
+                        "tel": "06-2082412",
+                        "fex": "06-2081004",
+                        "workTime": "Mon-Sun 11:00 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Kaohsiung Dream Mall Store",
+                        "imgUrl": "images/store/south/2_DreamMall.jpg",
+                        "address": "B1F.(Kaohsiung Dream Mall), No.789, Zhonghua 5th Rd., Qianzhen Dist., Kaohsiung City 806, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/52T66XLRCrdWumE79",
+                        "tel": "07-8232500",
+                        "fex": "07-8231496",
+                        "workTime": "Mon-Thu 11:00 ~ 22:00 <br> Fri 11:00 ~ 22:30 <br> Sat 10:30 ~ 22:30 <br> Sun 10:30 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Hanshin Store",
+                        "imgUrl": "images/store/south/3_HANSHIN.jpg",
+                        "address": "B3F.(Hanshin Department Stores), No.266-1, Chenggong 1st Rd., Qianjin Dist., Kaohsiung City 801, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/V3zxDZKnUrueWuLF7",
+                        "tel": "07-2728156~8",
+                        "fex": "07-2728159",
+                        "workTime": "Mon-Thu 11:00 ~ 22:00 <br> Fri 11:00 ~ 22:30 <br> Sat 10:30 ~ 22:30 <br> Sun 10:30 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Hanshin Arena Store",
+                        "imgUrl": "images/store/south/4_HanshinArena.jpg",
+                        "address": "B1F(Hanshinarena Department Stores)., No.777, Bo’ai 2nd Rd., Zuoying Dist., Kaohsiung City 813, Taiwan (R.O.C.)",
+                        "googleMap": "https://goo.gl/maps/L6o67FXYm7hQgbTv6",
+                        "tel": "07-522-4785",
+                        "fex": "07-522-4776",
+                        "workTime": "Mon-Thu 11:00 ~ 22:00 <br> Fri 11:00 ~ 22:30 <br> Sat 10:30 ~ 22:30 <br> Sun 10:30 ~ 22:00"
+                    },
+                    {
+                        "storeTitle": "JASONS Pingtung Store",
+                        "imgUrl": "images/store/south/5_Pingtung.jpg",
+                        "address": "No.72, Zhongzheng Rd., Pingtung City, Pingtung County",
+                        "googleMap": "https://goo.gl/maps/scCFEZf4EeZHVFff7",
+                        "tel": "7324212、7324707",
+                        "fex": "08-7329495",
+                        "workTime": "Mon-Fri 11:00~22:00 <br> Sat-Sun 10:30~22:00"
+                    }
+                ]
+            }
+        ]
+    }
+]
